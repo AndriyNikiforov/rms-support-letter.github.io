@@ -143,3 +143,6 @@ Signed,
 [Ivan Machugovskiy](https://github.com/imachug)
 
 [Vladislav Glinsky](https://github.com/cl0ne)
+
+[Andriy Nikiforov](https://github.com/AndriyNikiforov)
+
